@@ -1,3 +1,7 @@
+Implemented the 1979 space-themed video game "Asteroids" in Java, collaborating with three team members. Utilized abstractions to integrate various objects into the final interface.
+Developed basic animations and objects within the src folder, including ship, bullet, and asteroid instances, along with animation/motion implementations. The main program, MyGame.java, provides an interface for users to play the game, while the test folder contains test files for implementation verification.
+Further info below
+
 # Asteroids
 
 Welcome to our Atari Asteroids Simulation Experience. 
